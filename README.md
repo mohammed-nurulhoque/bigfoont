@@ -3,8 +3,10 @@
 Render text as braille unicode art using bitmap fonts.
 
 ```
-⣆⡆⣤⡄⢸⠀⢸⠀⡤⡄⠀⠀⣆⡆⡤⡄⡤⠄⢸⠀⡤⡇⢰⠀
-⠃⠃⠓⠂⠘⠂⠘⠂⠓⠃⠀⠀⠛⠃⠓⠃⠃⠀⠘⠂⠓⠃⠐⠀
+⣿⣿⠀⠀⠀⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⣿⣿⠀⠀⠀⠀⠀⠛⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣤⣤⣤⣿⣿⠀⣤⣿⠛⠛⠛⣿⣤⠀⠀⠀⠀⣿⣿⠀⠀⠀⠀⠀⠀⣿⣿⠀⠀⠀⣤⣿⠛⠛⠛⣿⣤⠀
+⣿⣿⠀⠀⠀⣿⣿⠀⣿⣿⠛⠛⠛⠛⠛⠀⠀⠀⠀⣿⣿⠀⠀⠀⠀⠀⠀⣿⣿⠀⠀⠀⣿⣿⠀⠀⠀⣿⣿⠀
+⠛⠛⠀⠀⠀⠛⠛⠀⠀⠛⠛⠛⠛⠛⠀⠀⠀⠛⠛⠛⠛⠛⠛⠀⠀⠛⠛⠛⠛⠛⠛⠀⠀⠛⠛⠛⠛⠛⠀⠀
 ```
 
 > **Note:** Output must be viewed in a **monospace font** with Unicode braille support for correct alignment.
